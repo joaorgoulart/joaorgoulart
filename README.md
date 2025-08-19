@@ -1,4 +1,4 @@
-# Olá, eu sou o João Roberto! 👋
+# Olá, eu sou o João Roberto.
 
 🎓 Estudante de **Engenharia de Computação** na UTFPR  
 💻 Desenvolvedor **Full Stack** apaixonado por criar soluções escaláveis, seguras e de impacto real.  
@@ -7,7 +7,7 @@
 ---
 
 ## 🔹 Sobre mim
-Sou desenvolvedor com foco em **aplicações web full stack**, atuando em projetos que envolvem desde a arquitetura backend até o design de experiências de usuário. Tenho experiência prática em **infraestrutura em nuvem (AWS)**, **sistemas multitenant** e desenvolvimento desde a ideia até a implantação.  
+Sou desenvolvedor com foco em **aplicações web full stack**, atuando em projetos que envolvem desde a arquitetura backend até o design de experiências de usuário. Tenho experiência prática em **infraestrutura em nuvem (AWS)**, **sistemas multitenant**.  
 Meu objetivo é construir soluções que sejam ao mesmo tempo **tecnicamente robustas** e **úteis para pessoas e negócios**.
 
 ---
@@ -39,7 +39,7 @@ Meu objetivo é construir soluções que sejam ao mesmo tempo **tecnicamente rob
 
 - [**Estuuds.com**](http://estuuds.com) – Plataforma de **planejamento de estudos personalizados**  
   - Next.js, React, PostgreSQL, Prisma, Stripe API  
-  - Algoritmos de **Spaced Repetition** e **Interleaving** para otimizar aprendizado.  
+  - Implementa **Spaced Repetition** e **Interleaving** no algoritmo para otimizar aprendizado.  
 
 - [**Crophouse.app**](http://crophouse.app) – **Administração de plantio em estufas**  
   - Next.js, React, PostgreSQL, Prisma  
@@ -50,8 +50,6 @@ Meu objetivo é construir soluções que sejam ao mesmo tempo **tecnicamente rob
 ---
 
 ## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaorgoulart&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaorgoulart&layout=compact&theme=tokyonight)
 
 ---
