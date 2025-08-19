@@ -37,7 +37,8 @@ Meu objetivo é construir soluções que sejam ao mesmo tempo **tecnicamente rob
 
 ## 🚀 Projetos em Destaque
 
-- [**Estuuds.com**](http://estuuds.com) – Plataforma de **planejamento de estudos personalizados**  
+- [**Estuuds.com**](http://estuuds.com) – Plataforma de **planejamento de estudos personalizados**
+  - [**Repositório**](https://github.com/joaorgoulart/estuuds)
   - Next.js, React, PostgreSQL, Prisma, Stripe API  
   - Implementa **Spaced Repetition** e **Interleaving** no algoritmo para otimizar aprendizado.  
 
